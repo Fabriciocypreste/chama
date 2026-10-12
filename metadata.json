@@ -1,0 +1,6 @@
+{
+  "name": "Poquei - O Jeito Capixaba de Conversar",
+  "description": "Aplicativo de mensagens tipo WhatsApp Android inspirado na cultura capixaba, com conversas, chamadas, status, comunidades e perfil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
